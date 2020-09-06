@@ -1,8 +1,8 @@
-# tor-list-frontend
+# orbitdb-frontend-boilerplate
 
-This is a Gatsby front end web app. It is the user interface for interacting with the [tor-list-api](https://github.com/Permissionless-Software-Foundation/tor-list-frontend) REST API, which allows people to read and write to the OrbitDB that syndicates the Tor List. This front end app was forked from the [bch-wallet-starter](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter) Gatsby Starter.
+This is a Gatsby front end boilerplate. It's intended to be paired with the [orbit-api-boilerplate](https://github.com/christroutner/orbitdb-api-boilerplate). This boilerplate was forked from an early version of [tor-list-frontend](https://github.com/Permissionless-Software-Foundation/tor-list-frontend).
 
-The live version of this site can be viewed at [torlist.cash](https://torlist.cash).
+The front end boilerplate will read and write from an OrbitDB using the REST API served by orbit-api-boilerplate.
 
 ## LICENSE
 [MIT](./LICENSE.md)
